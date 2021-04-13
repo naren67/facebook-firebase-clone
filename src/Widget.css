@@ -1,0 +1,37 @@
+.contact__option{
+          display: flex;       
+}
+
+.contact__option p{
+          padding-right: 60px;
+}
+
+.widget{
+          margin-top: 50px;
+}
+
+.widget p:nth-child(1){
+          border-bottom: 2px solid gainsboro;
+          padding-bottom: 10px;
+          margin-bottom: 20px;
+}
+
+.widget__header, .group__header{
+          font-size: 18px;
+}
+
+.contact__header{
+          font-size: 15px;
+}
+
+.contact__icon{
+          padding-right: 15px;
+}
+
+.contact__options{
+          cursor: pointer;
+}
+
+.widget__contact{
+          margin-bottom: 20px;
+}

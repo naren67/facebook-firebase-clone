@@ -1,0 +1,18 @@
+.contacts{
+          display: flex;
+          align-items: center;
+          margin-top: 20px;
+          padding: 10px 3px;
+          border-radius: 10px;
+          flex: 1;
+          width: 100%;
+          cursor: pointer;
+}
+
+.contacts p{
+          margin-left: 20px;
+}
+
+.contacts:hover{
+          background: gainsboro;
+}
